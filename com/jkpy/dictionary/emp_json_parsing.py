@@ -112,4 +112,5 @@ def lookup_employee_from_user_input():
 # parse_emp_get_respose()
 
 # parse_emp_get_respose()
-parse_emp_from_file()
+# parse_emp_from_file()
+parse_emp_get_respose()

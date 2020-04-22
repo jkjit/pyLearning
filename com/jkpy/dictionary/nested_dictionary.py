@@ -19,12 +19,13 @@ contacts = {
     }
 }
 
+print("\nPrinting all contacts inside the dictionary \n")
 print(contacts)
 
 for contact_name in contacts:
     contact_info = contacts[contact_name]
-    print(contact_name+" "+contact_info['phone']+" "+contact_info['email'])
+    print("\n"+contact_name+" "+contact_info['phone']+" "+contact_info['email'])
 
 #
-# for key in contacts:
-#     print(" Name : {} , Phone : {}, Email : {}".format(key,contacts[key]['phone'],contacts[key]['email']))
+for key in contacts:
+    print(" Name : {} , Phone : {}, Email : {}".format(key,contacts[key]['phone'],contacts[key]['email']))

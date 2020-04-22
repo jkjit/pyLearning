@@ -17,7 +17,6 @@ with open(file_path,'r') as fpath:
     print(fpath.read())"""
 
 with open(file_path+"3",'r+') as file:
-    file.read()
     file.write("Something written with w")
     file.seek(0)
     print(file.read())
