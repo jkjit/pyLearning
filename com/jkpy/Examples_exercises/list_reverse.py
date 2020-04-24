@@ -49,10 +49,10 @@ for area, pin in dictionary.items():
 # input = 4567
 # print(str(input)[1::])
 
-inpu = 647484
-devide_by = 10 ** (len(str(inpu))-1)
-print(inpu)
-print(devide_by)
-print(inpu%devide_by)
-input_str = str(inpu)
-print(input_str[:len(input_str)-1:])
+# inpu = 647484
+# devide_by = 10 ** (len(str(inpu))-1)
+# print(inpu)
+# print(devide_by)
+# print(inpu%devide_by)
+# input_str = str(inpu)
+# print(input_str[:len(input_str)-1:])

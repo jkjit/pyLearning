@@ -6,14 +6,16 @@ print(sorted(root))
 root = { x**2 for x in range (15 ,1 ,-1)}
 print(root)
 
+print("starting 0,5,-1")
 root = { x**2 for x in range(0 ,5 ,-1)}
 print(root)
 
+print("starting 5,0,-1")
 root = { x**2 for x in range(5 ,0 ,1)}
 print(root)
-
 print(type(root))
 
+print("using range 1,8 values")
 newval = {x**2 for x in range(1,8)}
 print(newval)
 
@@ -30,11 +32,11 @@ print(newval)
 # print( 7//2)
 #
 #
-# str1 = "Appointment"
-# print(str1.title())
-# print(str1.format())
-# print((str1.count(str1)))
-# print(str1.split('me'))
+str1 = "Appointment"
+print(str1.title())
+print(str1.format())
+print((str1.count(str1)))
+print(str1.split('me'))
 #
 # # print(str1.index('m','e'))
 # def me():

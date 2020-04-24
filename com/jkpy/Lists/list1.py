@@ -33,3 +33,7 @@ for name in list_name:
     print(name)
 
 print(list_name)
+
+for index in range(0,len(list1)):
+    print(list1[index])
+
