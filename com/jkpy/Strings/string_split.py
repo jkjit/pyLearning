@@ -1,4 +1,5 @@
 
+
 from collections import Counter
 
 str1 = " This is a    very big string example with      lot of spaces"
@@ -31,3 +32,6 @@ print(tup1[:2])
 
 str2 = "Sample     "
 print(str2,str2)
+
+print(str2.swapcase())
+

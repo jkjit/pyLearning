@@ -8,14 +8,14 @@ class website():
     #     self.driver = webdriver.Firefox()
     #     self.driver.get("http://testing-ground.scraping.pro/login")
     #
-    driver = webdriver.firefox
+    driver = webdriver.Firefox()
 
     # @classmethod
     def test_open_website(cls):
         driver = cls.driver
         driver.get("http://testing-ground.scraping.pro/login")
         assert "Web Scraper Testing Ground" in driver.title
-        driver.close()
+        # driver.close()
 
     @classmethod
     def test_correct_pwd(cls):
@@ -27,7 +27,7 @@ class website():
         user_pwd.send_keys("12345")
         driver.find_element_by_xpath("//*[@id=\"case_login\"]/form/input[3]").click()
         assert "WELCOME" in driver.find_element_by_id("case_login").text
-        driver.close()
+        # driver.close()
 
     @classmethod
     def test_incorrect_pwd(cls):
@@ -39,7 +39,7 @@ class website():
         user_pwd.clear()
         driver.find_element_by_xpath("//*[@id=\"case_login\"]/form/input[3]").click()
         assert "WELCOME" not in driver.find_element_by_id("case_login").text
-        driver.close()
+        # driver.close()
 
     @classmethod
     def tear_down(cls):
@@ -53,3 +53,4 @@ web = website()
 web.test_open_website()
 web.test_correct_pwd()
 web.test_incorrect_pwd()
+web.tear_down()

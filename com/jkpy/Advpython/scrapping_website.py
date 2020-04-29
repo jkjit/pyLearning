@@ -7,7 +7,6 @@ class Testpytest():
     # @pytest.fixture(scope="session", autouse=True)
     # def setup(self):
     #     self.driver = webdriver.Firefox()
-    #     self.driver.get("http://testing-ground.scraping.pro/login")
     #
     
     def test_open_website(self):
