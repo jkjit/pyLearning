@@ -32,6 +32,7 @@ class C():
 
 class D(C,B):
     def __init__(self):
+        print("First super")
         super().__init__()
         print("Am inside init of D class")
 
@@ -43,3 +44,5 @@ d1 = D()
 
 d1.feature5()
 d1.feature6()
+d1.feature3()
+d1.feature4()

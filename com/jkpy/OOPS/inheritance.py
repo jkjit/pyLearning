@@ -20,9 +20,9 @@ class C(A):
 
 class D(B,C):
     def feature6(self):
-        print("Priting of featuer 6")
+        print("Printing of feature 6")
     def feature5(self):
-        print("Prited modified logic from D for fetaure 5")
+        print("Printed modified logic from D for feature 5")
 
 
 d1 = D()
