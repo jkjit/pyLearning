@@ -18,11 +18,11 @@ if __name__ == '__main__':
     numList = getList(numLimit)
     endTime = time.time()
     print("Time diff is : ",endTime-startTime)
-    print(sys.getsizeof(numList))
+    print(f'Memory allocated for numList is : {sys.getsizeof(numList)}')
 
     print('\n with generators')
     startTime = time.time()
     numGenerator = genList(numLimit)
     endTime = time.time()
     print("Time diff is : ", endTime - startTime)
-    print(sys.getsizeof(numGenerator))
+    print(f'Memory allocated for numList is : {sys.getsizeof(numGenerator)}')

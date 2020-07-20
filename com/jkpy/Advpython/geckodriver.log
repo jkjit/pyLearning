@@ -409,3 +409,229 @@ JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.mi
 JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1588142385229	Marionette	INFO	Stopped listening on port 36657
+1594710523588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGw40b4"
+1594710527620	Marionette	INFO	Listening on port 41957
+1594710527706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710533406	Marionette	INFO	Stopped listening on port 41957
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1594710632478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOpvkdt"
+1594710635788	Marionette	INFO	Listening on port 40549
+1594710635890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710639191	Marionette	INFO	Stopped listening on port 40549
+1594710654005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9Zier"
+1594710657273	Marionette	INFO	Listening on port 42819
+1594710657315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710662748	Marionette	INFO	Stopped listening on port 42819
+1594710746008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMwHts3"
+1594710749297	Marionette	INFO	Listening on port 39315
+1594710749319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710753877	Marionette	INFO	Stopped listening on port 39315
+1594710773244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerzFW0A"
+1594710776499	Marionette	INFO	Listening on port 40173
+1594710776557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710921529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley153Ky"
+1594710924866	Marionette	INFO	Listening on port 46815
+1594710924940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594710925997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepA3BWT"
+1594710929368	Marionette	INFO	Listening on port 33495
+1594710929408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594710944305	Marionette	INFO	Stopped listening on port 46815
+1594710945048	Marionette	INFO	Stopped listening on port 33495
+1594710987975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Sz6sW"
+1594710991272	Marionette	INFO	Listening on port 35965
+1594710991291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594710992350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8IMFIe"
+1594710995592	Marionette	INFO	Listening on port 42597
+1594710995662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594711014504	Marionette	INFO	Stopped listening on port 42597
+1594711015644	Marionette	INFO	Stopped listening on port 35965
+1594711113650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE3pEwI"
+1594711116933	Marionette	INFO	Listening on port 44153
+1594711116961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594711128761	Marionette	INFO	Stopped listening on port 44153
+1594711158729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesMgGef"
+1594711161907	Marionette	INFO	Listening on port 41609
+1594711161939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594711168394	Marionette	INFO	Stopped listening on port 41609
+1594711201634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIEGrA3"
+1594711204869	Marionette	INFO	Listening on port 46763
+1594711204944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594711415573	Marionette	INFO	Stopped listening on port 46763
+1594711422210	Marionette	INFO	Stopped listening on port 40173
+1594711465017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG1kChj"
+1594711468270	Marionette	INFO	Listening on port 44491
+1594711468327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+1594711546451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxANDo"
+1594711550044	Marionette	INFO	Listening on port 36855
+1594711550065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594711647443	Marionette	ERROR	[21] No reply from Marionette:Register
+1594711650392	Marionette	INFO	Stopped listening on port 36855
+1594711660601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekeQFcG"
+1594711663884	Marionette	INFO	Listening on port 35911
+1594711663913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+1594711884775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexC38YR"
+1594711888201	Marionette	INFO	Listening on port 45215
+1594711888293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594711913984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+1594711988688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVUPwOg"
+1594711994131	Marionette	INFO	Listening on port 46263
+1594711994211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594712216732	Marionette	INFO	Stopped listening on port 46263
+1594712272805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefzQ9L0"
+1594712272887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWqM7rq"
+1594712277173	Marionette	INFO	Listening on port 39467
+1594712277235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594712277388	Marionette	INFO	Listening on port 36669
+1594712277408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594712312421	Marionette	INFO	Stopped listening on port 39467
+1594712316346	Marionette	INFO	Stopped listening on port 36669
+1594712326756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVZDYma"
+1594712329755	Marionette	INFO	Listening on port 34107
+1594712329766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+1594712512096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZWYfpu"
+1594712515298	Marionette	INFO	Listening on port 35169
+1594712515306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594712562550	Marionette	INFO	Stopped listening on port 35169
+1594712619268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyRheYS"
+1594712622397	Marionette	INFO	Listening on port 45501
+1594712622479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594712744101	Marionette	INFO	Stopped listening on port 45501
+1594712748425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBWOPFG"
+1594712751715	Marionette	INFO	Listening on port 42083
+1594712751742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594712768301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1594712796562	Marionette	INFO	Stopped listening on port 42083
+1594712806106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevhivF2"
+1594712848413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepQP9Ad"
+1594712851623	Marionette	INFO	Listening on port 35953
+1594712851632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+1594720273600	Marionette	INFO	Stopped listening on port 35953
